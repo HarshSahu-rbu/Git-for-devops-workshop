@@ -3,3 +3,7 @@ git status
 git add
 git commit -m
 git restore
+----------------
+git remote -v
+git remote set-url origin
+git push origin master
